@@ -6,3 +6,8 @@ Task 1: Change the color of a cube sinusoidally.
 Task 2: Change the position of an object sinusoidally.
 
 Task 3: Change the scale of an object sinusoidally.
+
+Task 123 Combined: 
+A BUTTON:Change the color of a cube sinusoidally.
+B BUTTON:Change the position of an object sinusoidally.
+X BUTTON:Change the scale of an object sinusoidally.
